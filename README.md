@@ -1,4 +1,4 @@
-# new-todo-app-django
+# New Todo List 2 - DJANGO
 
 <a name="readme-top"></a>
 
